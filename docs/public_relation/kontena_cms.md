@@ -7,7 +7,7 @@
   <figcaption align="center">Halaman Login</figcaption>
 </figure>
 
-Kontena CMS merupakan halaman dimana memfasilitasi pembuatan **artikel** dan **promotion** yang akan tampil di **Aplikasi Tamu Kontena**. Akses untuk login ke halaman ini sama persis dengan akses yang ke **Dashboard Kontena Sistem** menggunakan nomor HP dan password yang sama sesuai user masing-masing.
+Kontena CMS merupakan halaman dimana memfasilitasi pembuatan **artikel** dan **promotion** yang akan tampil di **Website Hotel Kontena**. Akses untuk login ke halaman ini sama persis dengan akses yang ke **Dashboard Kontena Sistem** menggunakan nomor HP dan password yang sama sesuai user masing-masing.
 
 <figure align="center">
   <img src="./public_relation/_assets/home.png" alt="home/80" />
@@ -32,9 +32,9 @@ halaman tentang semua promotion dari Hotel Kontena. terdapat di menu sebelah kir
 - inputkan **promotion title** untuk judul dari promosi itu sendiri.
 - lalu masukkan **start at** tanggal mulainya dari promosi.
 - **end at** tanggal berakhirnya dari promosi.
-- untuk **start at** dan **end at** ini akan otomatis muncul di **Aplikasi Tamu Kontena**.
+- untuk **start at** dan **end at** ini akan otomatis muncul di **Website Hotel Kontena**.
 - **promotion description** ini tentang detail dari promosi itu apa saja.
-- **cover image** untuk menampilkan cover gambar promosi itu sendiri.
+- **cover image** untuk menampilkan cover gambar promosi itu sendiri. (landscape, 16x9, size tidak lbh dari 600kb)
 - lalu klik **save**
 
 **Detail Promotion**
@@ -57,7 +57,7 @@ halaman artikel tentang artikel dimana kita juga bisa mengambil link dari websit
 - inputkan **title** untuk judul dari artikel itu sendiri.
 - berbeda dengan promotion kalau di artikel terdapat **published at** dimana fungsinya hampir sama, akan tampil di **Aplikasi Tamu Kontena** sesuai tanggal yang diinputkan.
 - **external link** merupakan jika artikel mengambil dari website lain.
-- **cover image** untuk menampilkan cover gambar artikel itu sendiri.
+- **cover image** untuk menampilkan cover gambar artikel itu sendiri. (ukuran potrait, 4x3, 200kb)
 - lalu klik **save**
 
 **Detail Artikel**
