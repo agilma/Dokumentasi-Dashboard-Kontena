@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 - Reservation
-  * [Guide Booking](./reservation/guide_booking.md)
+  * [Booking](./reservation/guide_booking.md)
 - Front Office
   * [Check In](./front_office/checkin.md)
   * [Check Out](./front_office/checkout.md)
@@ -16,4 +16,7 @@
 - Accounting
 - Human Resource
 - Public Relation
+  * [Partner](./public_relation/partner.md)
+  * [Apps Partner](./public_relation/apps_partner.md)
+  * [Kontena CMS](./public_relation/kontena_cms.md)
 - Hotel Setting
