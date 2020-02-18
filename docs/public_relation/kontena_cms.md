@@ -34,7 +34,7 @@ halaman tentang semua promotion dari Hotel Kontena. terdapat di menu sebelah kir
 - **end at** tanggal berakhirnya dari promosi.
 - untuk **start at** dan **end at** ini akan otomatis muncul di **Website Hotel Kontena**.
 - **promotion description** ini tentang detail dari promosi itu apa saja.
-- **cover image** untuk menampilkan cover gambar promosi itu sendiri. (landscape, 16x9, size tidak lbh dari 600kb)
+- **cover image** untuk menampilkan cover gambar promosi itu sendiri. (landscape, 16:9, size tidak lbh dari 600kb)
 - lalu klik **save**
 
 **Detail Promotion**
@@ -57,7 +57,7 @@ halaman artikel tentang artikel dimana kita juga bisa mengambil link dari websit
 - inputkan **title** untuk judul dari artikel itu sendiri.
 - berbeda dengan promotion kalau di artikel terdapat **published at** dimana fungsinya hampir sama, akan tampil di **Aplikasi Tamu Kontena** sesuai tanggal yang diinputkan.
 - **external link** merupakan jika artikel mengambil dari website lain.
-- **cover image** untuk menampilkan cover gambar artikel itu sendiri. (ukuran potrait, 4x3, 200kb)
+- **cover image** untuk menampilkan cover gambar artikel itu sendiri. (ukuran potrait, 4:3, 200kb)
 - lalu klik **save**
 
 **Detail Artikel**
