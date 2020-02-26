@@ -1,7 +1,9 @@
 <!-- docs/_sidebar.md -->
 - Reservation
   * [Booking](./reservation/guide_booking.md)
+  * [Daftar-Daftar Reservation](./reservation/list_booking.md)
 - Front Office
+  * [Walk In](./front_office/walkin.md)
   * [Check In](./front_office/checkin.md)
   * [Check Out](./front_office/checkout.md)
   * [Pay Deposit](./front_office/deposit.md)
