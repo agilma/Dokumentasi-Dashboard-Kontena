@@ -1,6 +1,6 @@
 # Error
 
-> check error
+> Step by step untuk check error sistem
 
 - Pertama klik kanan lalu cari **Inspect** atau **Inspect Element**
   <figure align="center">
