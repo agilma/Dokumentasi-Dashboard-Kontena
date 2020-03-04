@@ -1,0 +1,1 @@
+# Menambahkan Kontrak Karyawan Baru
